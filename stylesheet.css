@@ -1,0 +1,92 @@
+/***************** GENERAL *********************/
+
+a {
+    color: #874356;
+    text-decoration: none;
+}
+/* links */
+
+header a {
+    color: #d2718d;
+    font-size: 32pt;
+    text-align: center;
+    font-family: 'Tiro Devanagari Sanskrit'
+}
+/* head */
+
+nav ul {
+    list-style: none;
+    text-align: center;
+
+}
+/* navbar */
+
+ul li {
+    display: inline-block;
+    width: 200px;
+    height: 30;
+    margin: 0%;
+    line-height: 30px;
+    color: #874356;
+}
+
+ul li a:hover {
+    color: #F68989;
+}
+
+/* navbar listing and decor */
+
+body{
+    background-color: white;
+}
+
+.itemimages {
+    width: 300px;
+    height: auto;
+}
+
+div {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+footer {
+    text-align: center;
+    color: grey;
+}
+
+p {
+    font-family: 'Tiro Devanagari Sanskrit'
+}
+
+/* image display settings */
+
+
+
+/******************** TEXT COLORS ********************/
+.text-color-maroon { 
+    color: #874356;
+}
+
+.text-color-pink { 
+    color: #C65D7B;
+}
+.text-color-beige { 
+    color: #F6E7D8;
+}
+
+#F6E7D8
+
+/******************* FONTS&SIZES *********************/
+.fs-28 {
+    font-size: 28pt;
+}
+
+.fs-16 {
+    font-size: 16pt;
+}
+
+* {
+    font-family: 'Tiro Devanagari Sanskrit', serif;
+}
